@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597871612 source:f:\oops concept c++\manipulators\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+

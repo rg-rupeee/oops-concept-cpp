@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594131830 source:f:\oops concept c++\0sololearn\02 random numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

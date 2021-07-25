@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592088375 source:f:\oops concept c++\stringstream\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
